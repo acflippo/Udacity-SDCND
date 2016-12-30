@@ -70,3 +70,8 @@ This lab utilizes:
 - Training data from the [German Traffic Sign Recognition Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news)
 
 AlexNet was originally trained on the [ImageNet database](http://www.image-net.org/).
+
+## Extras
+
+This folder includes ImageNet Inference Lab (imagenet\_inference.py), Traffic Sign Inference Lab (traffic\_sign\_inference.py) 
+and Feature Extractor Lab (feature\_extraction.py).
