@@ -44,14 +44,14 @@ can be downloaded from the Udacity lessons for this lab.
 		* Pillow
 
 5. Behind-the-scenes, Keras uses either TensorFlow, or an alternative deep learning library called Theano. By default Keras uses TensorFlow. However, if this is not the case, create ~/.keras/keras.json to configure Keras to use TensorFlow.
-```
-{
-    "image_dim_ordering": "tf",
-    "epsilon": 1e-07,
-    "backend": "tensorflow",
-    "floatx": "float32"
-}
-```
+	```
+	{
+		"image_dim_ordering": "tf",
+		"epsilon": 1e-07,
+		"backend": "tensorflow",
+		"floatx": "float32"
+	}
+	```
 6. Test
 
 	* python (should open python 3.5)
