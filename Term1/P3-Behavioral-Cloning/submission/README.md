@@ -3,7 +3,7 @@
 
 Author: Annie Flippo
 
-Date: Jan-07-2017
+Date: Jan-08-2017
 
 This project is for Udacity Self-Driving Car Nanodegree, Steering Simulator Project 3: Behavioral Cloning.
 
@@ -149,7 +149,7 @@ Ensure the following software is installed in your environment:
 To use the model to run the simulation car, run the following on command line on a terminal:
 
 ```
-% python drive model.json
+% python drive.py model.json
 ```
 
 Pick any Screen resolution: 
@@ -163,6 +163,11 @@ Pick any Screen resolution:
 Then, select Training Track (on the left) or Test Track (on the right), and click "AUTONOMOUS MODE".  Off you go!
 
 ![Simulator Screen 2](Simulator_screen2.png)
+
+## Github
+
+I've included my exploratory ipython notebook for this project at my [github repository](https://github.com/acflippo/Udacity-SDCND/blob/master/Term1/P3-Behavioral-Cloning/EDA_behavioral-cloning-Annie.ipynb).
+
 
 # What have I learned?
 
