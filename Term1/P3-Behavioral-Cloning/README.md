@@ -47,6 +47,12 @@
 
 5. Opencv
 
+    conda install -c https://conda.anaconda.org/menpo opencv3
+
+	or,
+
+	conda install -c https://conda.binstar.org/menpo opencv3
+
 
 6. Behind-the-scenes, Keras uses either TensorFlow, or an alternative deep learning library called Theano. By default Keras uses TensorFlow. However, if this is not the case, create ~/.keras/keras.json to configure Keras to use TensorFlow.
 	```
